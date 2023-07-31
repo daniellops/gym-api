@@ -1,4 +1,4 @@
-package com.example.gym.domain.entities;
+package com.example.gym.modules.domain.entities;
 
 import java.util.List;
 

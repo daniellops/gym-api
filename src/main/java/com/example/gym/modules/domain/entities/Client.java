@@ -1,4 +1,4 @@
-package com.example.gym.domain.entities;
+package com.example.gym.modules.domain.entities;
 
 public class Client {
     private long id;
